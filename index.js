@@ -3,7 +3,7 @@ const app = express();
 
 app.get("/", function (req, res) {
     res.json({
-        pruebas: "jala"
+        pruebas: "hola mi amigo"
     });
 });
 
